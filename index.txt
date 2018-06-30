@@ -1,10 +1,10 @@
-git status
+Shiv will change your git status
 
 
-git add README.md
+git add README.md do you really need it
 
-git status
+git status: you can check now
 
-git commit -m "Initial commit"
+git commit -m "Initial commit" - why are you committing this
 
-git log
+git log - you will nevr get the log
